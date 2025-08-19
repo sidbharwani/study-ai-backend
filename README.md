@@ -136,4 +136,4 @@ This backend powers that experience - securely, reliably, and at scale.
 
 ---
 ## Related Repositories
-Frontend: study-ai-frontend
+Frontend: [study-ai-frontend](https://github.com/sidbharwani/study-ai-backend)
